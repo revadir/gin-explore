@@ -1,0 +1,13 @@
+
+###
+GET localhost:8080/ping
+
+###
+GET localhost:8080/users
+
+###
+POST localhost:8080/store?name=reva
+###
+POST localhost:8080/store?name=neels
+###
+POST localhost:8080/store?name=nathan
